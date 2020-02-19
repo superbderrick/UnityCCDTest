@@ -1,2 +1,2 @@
-# UniRxSample
-UniRxSample project
+# UnityCCDTest
+Continuous collision detection test project
