@@ -16,17 +16,171 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/ButtonHandler.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="34" column="4" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+            <state relative-caret-position="462">
+              <caret line="35" column="8" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
               <folding>
-                <marker date="1582102878059" expanded="false" signature="6:78" ph="..." />
-                <marker date="1582102878059" expanded="true" signature="122:524" ph="{...}" />
-                <marker date="1582102878059" expanded="true" signature="182:203" ph="{...}" />
-                <marker date="1582102878059" expanded="true" signature="261:282" ph="{...}" />
-                <marker date="1582102878059" expanded="true" signature="312:357" ph="{...}" />
-                <marker date="1582102878059" expanded="true" signature="391:436" ph="{...}" />
-                <marker date="1582102878059" expanded="true" signature="471:517" ph="{...}" />
+                <marker date="1582177220444" expanded="false" signature="6:78" ph="..." />
+                <marker date="1582177220444" expanded="true" signature="122:972" ph="{...}" />
+                <marker date="1582177220444" expanded="true" signature="278:347" ph="{...}" />
+                <marker date="1582177220444" expanded="true" signature="378:636" ph="{...}" />
+                <marker date="1582177220444" expanded="true" signature="670:955" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/13848361-957C-441D-BD0A-CD06D583E845/78/dd391441/GameObject.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="327" column="21" lean-forward="true" selection-start-line="327" selection-start-column="21" selection-end-line="327" selection-end-column="21" />
+              <folding>
+                <marker date="1582176813746" expanded="true" signature="0:339" ph="/* Decompiled with JetBrains decompiler ... */" />
+                <marker date="1582176813746" expanded="false" signature="347:626" ph="..." />
+                <marker date="1582176813746" expanded="true" signature="649:32811" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="654:750" ph="///   &lt;para&gt;Base class for all entities in Unity Scenes.&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="892:32809" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="901:1176" ph="///   &lt;para&gt;Creates a new game object, named name.&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="1211:1279" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="1285:1560" ph="///   &lt;para&gt;Creates a new game object, named name.&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="1584:1661" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="1667:1942" ph="///   &lt;para&gt;Creates a new game object, named name.&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="2010:2168" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="2174:2383" ph="///   &lt;para&gt;Creates a game object with a primitive mesh renderer and appropriate collider.&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="2629:2823" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="2829:3046" ph="///   &lt;para&gt;Returns the component of Type type if the game object has one attached, null if it doesn't.&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="3865:4084" ph="///   &lt;para&gt;Returns the component with name type if the game object has one attached, null if it doesn't.&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="4131:4187" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="4193:4571" ph="///   &lt;para&gt;Returns the component of Type type in the GameObject or any of its children using depth first search. ... " />
+                <marker date="1582176813746" expanded="true" signature="4912:5290" ph="///   &lt;para&gt;Returns the component of Type type in the GameObject or any of its children using depth first search. ... " />
+                <marker date="1582176813746" expanded="true" signature="5426:5493" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="5557:5621" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="5707:5794" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="5800:5993" ph="///   &lt;para&gt;Returns the component of Type type in the GameObject or any of its parents.&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="6342:6410" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="6796:6976" ph="///   &lt;para&gt;Returns all components of Type type in the GameObject.&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="7031:7146" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="7181:7293" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="7367:7464" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="7515:7618" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="7624:7945" ph="///   &lt;para&gt;Returns all components of Type type in the GameObject or any of its children.&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="8032:8146" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="8152:8473" ph="///   &lt;para&gt;Returns all components of Type type in the GameObject or any of its children.&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="8584:8709" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="8774:8896" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="8979:9091" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="9136:9201" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="9262:9329" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="9415:9527" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="9533:9838" ph="///   &lt;para&gt;Returns all components of Type type in the GameObject or any of its parents.&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="9947:10071" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="10152:10263" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="10326:10447" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="10490:10553" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="10559:10754" ph="///   &lt;para&gt;Returns one active GameObject tagged tag. Returns null if no GameObject was found.&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="10807:10871" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="10877:11014" ph="///   &lt;para&gt;&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="11096:11175" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="11181:11318" ph="///   &lt;para&gt;&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="11393:11465" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="11471:11608" ph="///   &lt;para&gt;&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="11688:11765" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="12176:12377" ph="///   &lt;para&gt;Adds a component class of type componentType to the game object. C## Users can use a generic version.&lt; ... " />
+                <marker date="1582176813746" expanded="true" signature="12512:12588" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="12640:12701" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="12707:12805" ph="///   &lt;para&gt;The Transform attached to this GameObject.&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="12977:13065" ph="///   &lt;para&gt;The layer the game object is in.&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="13541:13823" ph="///   &lt;para&gt;ActivatesDeactivates the GameObject, depending on the given true or false/ value.&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="13967:14077" ph="///   &lt;para&gt;The local active state of this GameObject. (Read Only)&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="14208:14318" ph="///   &lt;para&gt;Defines whether the GameObject is active in the Scene.&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="14748:14862" ph="///   &lt;para&gt;Editor only API that specifies if a game object is static.&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="15236:15320" ph="///   &lt;para&gt;The tag of this game object.&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="15619:15766" ph="///   &lt;para&gt;Is this game object tagged with tag ?&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="16168:16401" ph="///   &lt;para&gt;Returns a list of active GameObjects tagged tag. Returns empty array if no GameObject was found.&lt;/par ... " />
+                <marker date="1582176813746" expanded="true" signature="16626:17079" ph="///   &lt;para&gt;Calls the method named methodName on every MonoBehaviour in this game object and on every ancestor of ... " />
+                <marker date="1582176813746" expanded="true" signature="17425:17878" ph="///   &lt;para&gt;Calls the method named methodName on every MonoBehaviour in this game object and on every ancestor of ... " />
+                <marker date="1582176813746" expanded="true" signature="17968:18110" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="18116:18569" ph="///   &lt;para&gt;Calls the method named methodName on every MonoBehaviour in this game object and on every ancestor of ... " />
+                <marker date="1582176813746" expanded="true" signature="18645:18819" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="18825:19239" ph="///   &lt;para&gt;Calls the method named methodName on every MonoBehaviour in this game object.&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="19552:19966" ph="///   &lt;para&gt;Calls the method named methodName on every MonoBehaviour in this game object.&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="20049:20184" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="20190:20604" ph="///   &lt;para&gt;Calls the method named methodName on every MonoBehaviour in this game object.&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="20673:20840" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="20846:21124" ph="///   &lt;para&gt;Calls the method named methodName on every MonoBehaviour in this game object or any of its children.&lt; ... " />
+                <marker date="1582176813746" expanded="true" signature="21470:21748" ph="///   &lt;para&gt;Calls the method named methodName on every MonoBehaviour in this game object or any of its children.&lt; ... " />
+                <marker date="1582176813746" expanded="true" signature="21840:21984" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="21990:22268" ph="///   &lt;para&gt;Calls the method named methodName on every MonoBehaviour in this game object or any of its children.&lt; ... " />
+                <marker date="1582176813746" expanded="true" signature="22342:22526" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="22756:22890" ph="///   &lt;para&gt;Finds a GameObject by name and returns it.&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="23054:23147" ph="///   &lt;para&gt;Scene that the GameObject is part of.&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="23170:23360" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="23257:23354" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="23488:23582" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="23616:23675" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="23632:23669" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="23957:24052" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="24058:24213" ph="///   &lt;para&gt;Adds a component class named className to the game object.&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="24466:24555" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="24561:24705" ph="///   &lt;para&gt;The Rigidbody attached to this GameObject (Read Only). (Null if there is none attached).&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="24907:25028" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="24923:25022" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="25034:25156" ph="///   &lt;para&gt;The Rigidbody2D component attached to this GameObject. (Read Only)&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="25364:25487" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="25380:25481" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="25493:25634" ph="///   &lt;para&gt;The Camera attached to this GameObject (Read Only). (Null if there is none attached).&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="25827:25945" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="25843:25939" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="25951:26091" ph="///   &lt;para&gt;The Light attached to this GameObject (Read Only). (Null if there is none attached).&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="26281:26398" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="26297:26392" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="26404:26548" ph="///   &lt;para&gt;The Animation attached to this GameObject (Read Only). (Null if there is none attached).&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="26750:26871" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="26766:26865" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="26877:27025" ph="///   &lt;para&gt;The ConstantForce attached to this GameObject (Read Only). (Null if there is none attached).&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="27239:27364" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="27255:27358" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="27370:27513" ph="///   &lt;para&gt;The Renderer attached to this GameObject (Read Only). (Null if there is none attached).&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="27712:27832" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="27728:27826" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="27838:27984" ph="///   &lt;para&gt;The AudioSource attached to this GameObject (Read Only). (Null if there is none attached).&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="28180:28297" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="28196:28291" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="28303:28445" ph="///   &lt;para&gt;The GUIText attached to this GameObject (Read Only). (Null if there is none attached).&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="28641:28760" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="28657:28754" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="28766:28912" ph="///   &lt;para&gt;The NetworkView attached to this GameObject (Read Only). (Null if there is none attached).&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="29120:29243" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="29136:29237" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="29449:29571" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="29465:29565" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="29577:29722" ph="///   &lt;para&gt;The GUITexture attached to this GameObject (Read Only). (Null if there is none attached).&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="29927:30049" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="29943:30043" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="30055:30198" ph="///   &lt;para&gt;The Collider attached to this GameObject (Read Only). (Null if there is none attached).&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="30397:30517" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="30413:30511" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="30523:30628" ph="///   &lt;para&gt;The Collider2D component attached to this object.&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="30833:30955" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="30849:30949" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="30961:31106" ph="///   &lt;para&gt;The HingeJoint attached to this GameObject (Read Only). (Null if there is none attached).&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="31311:31433" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="31327:31427" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="31439:31588" ph="///   &lt;para&gt;The ParticleSystem attached to this GameObject (Read Only). (Null if there is none attached).&lt;/para&gt; ... " />
+                <marker date="1582176813746" expanded="true" signature="31805:31931" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="31821:31925" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="32126:32253" ph="{...}" />
+                <marker date="1582176813746" expanded="true" signature="32432:32562" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/13848361-957C-441D-BD0A-CD06D583E845/87/f63128b3/Transform.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -37,7 +191,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/13848361-957C-441D-BD0A-CD06D583E845/4e/dff53c34/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/023A0D1A-BA0C-432C-9D30-045AEAF8B57A/e1/48b0e8c8/NativeMethodAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/13848361-957C-441D-BD0A-CD06D583E845/78/dd391441/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ButtonHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/13848361-957C-441D-BD0A-CD06D583E845/87/f63128b3/Transform.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -51,11 +209,10 @@
       <facet id="riderModule/invalid/Default Android Facet" />
     </ignored-facets>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1737" />
-    <option name="y" value="-1055" />
-    <option name="width" value="1902" />
-    <option name="height" value="1052" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="984" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -118,12 +275,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582102454963</updated>
-      <workItem from="1582102458956" duration="1277000" />
+      <workItem from="1582102458956" duration="4737000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1277000" />
+    <option name="totallyTimeSpent" value="4737000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -135,13 +292,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1735" y="-1057" width="1920" height="1057" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="984" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Captures" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21778488" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
@@ -185,18 +343,182 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/13848361-957C-441D-BD0A-CD06D583E845/4e/dff53c34/Vector3.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="832">
+          <caret line="56" column="11" selection-start-line="56" selection-start-column="11" selection-end-line="56" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/023A0D1A-BA0C-432C-9D30-045AEAF8B57A/e1/48b0e8c8/NativeMethodAttribute.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/13848361-957C-441D-BD0A-CD06D583E845/78/dd391441/GameObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="327" column="21" lean-forward="true" selection-start-line="327" selection-start-column="21" selection-end-line="327" selection-end-column="21" />
+          <folding>
+            <marker date="1582176813746" expanded="true" signature="0:339" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1582176813746" expanded="false" signature="347:626" ph="..." />
+            <marker date="1582176813746" expanded="true" signature="649:32811" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="654:750" ph="///   &lt;para&gt;Base class for all entities in Unity Scenes.&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="892:32809" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="901:1176" ph="///   &lt;para&gt;Creates a new game object, named name.&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="1211:1279" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="1285:1560" ph="///   &lt;para&gt;Creates a new game object, named name.&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="1584:1661" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="1667:1942" ph="///   &lt;para&gt;Creates a new game object, named name.&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="2010:2168" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="2174:2383" ph="///   &lt;para&gt;Creates a game object with a primitive mesh renderer and appropriate collider.&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="2629:2823" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="2829:3046" ph="///   &lt;para&gt;Returns the component of Type type if the game object has one attached, null if it doesn't.&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="3865:4084" ph="///   &lt;para&gt;Returns the component with name type if the game object has one attached, null if it doesn't.&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="4131:4187" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="4193:4571" ph="///   &lt;para&gt;Returns the component of Type type in the GameObject or any of its children using depth first search. ... " />
+            <marker date="1582176813746" expanded="true" signature="4912:5290" ph="///   &lt;para&gt;Returns the component of Type type in the GameObject or any of its children using depth first search. ... " />
+            <marker date="1582176813746" expanded="true" signature="5426:5493" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="5557:5621" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="5707:5794" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="5800:5993" ph="///   &lt;para&gt;Returns the component of Type type in the GameObject or any of its parents.&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="6342:6410" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="6796:6976" ph="///   &lt;para&gt;Returns all components of Type type in the GameObject.&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="7031:7146" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="7181:7293" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="7367:7464" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="7515:7618" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="7624:7945" ph="///   &lt;para&gt;Returns all components of Type type in the GameObject or any of its children.&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="8032:8146" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="8152:8473" ph="///   &lt;para&gt;Returns all components of Type type in the GameObject or any of its children.&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="8584:8709" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="8774:8896" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="8979:9091" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="9136:9201" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="9262:9329" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="9415:9527" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="9533:9838" ph="///   &lt;para&gt;Returns all components of Type type in the GameObject or any of its parents.&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="9947:10071" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="10152:10263" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="10326:10447" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="10490:10553" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="10559:10754" ph="///   &lt;para&gt;Returns one active GameObject tagged tag. Returns null if no GameObject was found.&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="10807:10871" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="10877:11014" ph="///   &lt;para&gt;&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="11096:11175" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="11181:11318" ph="///   &lt;para&gt;&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="11393:11465" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="11471:11608" ph="///   &lt;para&gt;&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="11688:11765" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="12176:12377" ph="///   &lt;para&gt;Adds a component class of type componentType to the game object. C## Users can use a generic version.&lt; ... " />
+            <marker date="1582176813746" expanded="true" signature="12512:12588" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="12640:12701" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="12707:12805" ph="///   &lt;para&gt;The Transform attached to this GameObject.&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="12977:13065" ph="///   &lt;para&gt;The layer the game object is in.&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="13541:13823" ph="///   &lt;para&gt;ActivatesDeactivates the GameObject, depending on the given true or false/ value.&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="13967:14077" ph="///   &lt;para&gt;The local active state of this GameObject. (Read Only)&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="14208:14318" ph="///   &lt;para&gt;Defines whether the GameObject is active in the Scene.&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="14748:14862" ph="///   &lt;para&gt;Editor only API that specifies if a game object is static.&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="15236:15320" ph="///   &lt;para&gt;The tag of this game object.&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="15619:15766" ph="///   &lt;para&gt;Is this game object tagged with tag ?&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="16168:16401" ph="///   &lt;para&gt;Returns a list of active GameObjects tagged tag. Returns empty array if no GameObject was found.&lt;/par ... " />
+            <marker date="1582176813746" expanded="true" signature="16626:17079" ph="///   &lt;para&gt;Calls the method named methodName on every MonoBehaviour in this game object and on every ancestor of ... " />
+            <marker date="1582176813746" expanded="true" signature="17425:17878" ph="///   &lt;para&gt;Calls the method named methodName on every MonoBehaviour in this game object and on every ancestor of ... " />
+            <marker date="1582176813746" expanded="true" signature="17968:18110" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="18116:18569" ph="///   &lt;para&gt;Calls the method named methodName on every MonoBehaviour in this game object and on every ancestor of ... " />
+            <marker date="1582176813746" expanded="true" signature="18645:18819" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="18825:19239" ph="///   &lt;para&gt;Calls the method named methodName on every MonoBehaviour in this game object.&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="19552:19966" ph="///   &lt;para&gt;Calls the method named methodName on every MonoBehaviour in this game object.&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="20049:20184" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="20190:20604" ph="///   &lt;para&gt;Calls the method named methodName on every MonoBehaviour in this game object.&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="20673:20840" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="20846:21124" ph="///   &lt;para&gt;Calls the method named methodName on every MonoBehaviour in this game object or any of its children.&lt; ... " />
+            <marker date="1582176813746" expanded="true" signature="21470:21748" ph="///   &lt;para&gt;Calls the method named methodName on every MonoBehaviour in this game object or any of its children.&lt; ... " />
+            <marker date="1582176813746" expanded="true" signature="21840:21984" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="21990:22268" ph="///   &lt;para&gt;Calls the method named methodName on every MonoBehaviour in this game object or any of its children.&lt; ... " />
+            <marker date="1582176813746" expanded="true" signature="22342:22526" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="22756:22890" ph="///   &lt;para&gt;Finds a GameObject by name and returns it.&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="23054:23147" ph="///   &lt;para&gt;Scene that the GameObject is part of.&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="23170:23360" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="23257:23354" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="23488:23582" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="23616:23675" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="23632:23669" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="23957:24052" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="24058:24213" ph="///   &lt;para&gt;Adds a component class named className to the game object.&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="24466:24555" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="24561:24705" ph="///   &lt;para&gt;The Rigidbody attached to this GameObject (Read Only). (Null if there is none attached).&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="24907:25028" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="24923:25022" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="25034:25156" ph="///   &lt;para&gt;The Rigidbody2D component attached to this GameObject. (Read Only)&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="25364:25487" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="25380:25481" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="25493:25634" ph="///   &lt;para&gt;The Camera attached to this GameObject (Read Only). (Null if there is none attached).&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="25827:25945" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="25843:25939" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="25951:26091" ph="///   &lt;para&gt;The Light attached to this GameObject (Read Only). (Null if there is none attached).&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="26281:26398" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="26297:26392" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="26404:26548" ph="///   &lt;para&gt;The Animation attached to this GameObject (Read Only). (Null if there is none attached).&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="26750:26871" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="26766:26865" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="26877:27025" ph="///   &lt;para&gt;The ConstantForce attached to this GameObject (Read Only). (Null if there is none attached).&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="27239:27364" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="27255:27358" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="27370:27513" ph="///   &lt;para&gt;The Renderer attached to this GameObject (Read Only). (Null if there is none attached).&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="27712:27832" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="27728:27826" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="27838:27984" ph="///   &lt;para&gt;The AudioSource attached to this GameObject (Read Only). (Null if there is none attached).&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="28180:28297" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="28196:28291" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="28303:28445" ph="///   &lt;para&gt;The GUIText attached to this GameObject (Read Only). (Null if there is none attached).&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="28641:28760" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="28657:28754" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="28766:28912" ph="///   &lt;para&gt;The NetworkView attached to this GameObject (Read Only). (Null if there is none attached).&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="29120:29243" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="29136:29237" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="29449:29571" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="29465:29565" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="29577:29722" ph="///   &lt;para&gt;The GUITexture attached to this GameObject (Read Only). (Null if there is none attached).&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="29927:30049" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="29943:30043" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="30055:30198" ph="///   &lt;para&gt;The Collider attached to this GameObject (Read Only). (Null if there is none attached).&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="30397:30517" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="30413:30511" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="30523:30628" ph="///   &lt;para&gt;The Collider2D component attached to this object.&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="30833:30955" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="30849:30949" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="30961:31106" ph="///   &lt;para&gt;The HingeJoint attached to this GameObject (Read Only). (Null if there is none attached).&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="31311:31433" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="31327:31427" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="31439:31588" ph="///   &lt;para&gt;The ParticleSystem attached to this GameObject (Read Only). (Null if there is none attached).&lt;/para&gt; ... " />
+            <marker date="1582176813746" expanded="true" signature="31805:31931" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="31821:31925" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="32126:32253" ph="{...}" />
+            <marker date="1582176813746" expanded="true" signature="32432:32562" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/13848361-957C-441D-BD0A-CD06D583E845/87/f63128b3/Transform.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ButtonHandler.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="34" column="4" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+        <state relative-caret-position="462">
+          <caret line="35" column="8" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
           <folding>
-            <marker date="1582102878059" expanded="false" signature="6:78" ph="..." />
-            <marker date="1582102878059" expanded="true" signature="122:524" ph="{...}" />
-            <marker date="1582102878059" expanded="true" signature="182:203" ph="{...}" />
-            <marker date="1582102878059" expanded="true" signature="261:282" ph="{...}" />
-            <marker date="1582102878059" expanded="true" signature="312:357" ph="{...}" />
-            <marker date="1582102878059" expanded="true" signature="391:436" ph="{...}" />
-            <marker date="1582102878059" expanded="true" signature="471:517" ph="{...}" />
+            <marker date="1582177220444" expanded="false" signature="6:78" ph="..." />
+            <marker date="1582177220444" expanded="true" signature="122:972" ph="{...}" />
+            <marker date="1582177220444" expanded="true" signature="278:347" ph="{...}" />
+            <marker date="1582177220444" expanded="true" signature="378:636" ph="{...}" />
+            <marker date="1582177220444" expanded="true" signature="670:955" ph="{...}" />
           </folding>
         </state>
       </provider>
